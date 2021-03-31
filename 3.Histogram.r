@@ -1,4 +1,4 @@
-#title:Barchart Plot
+#title:HIstogram Plot
 #Basic Data Graphics
 #Author:Hrishikesh Tripathi
 #Plotting Histogram using iris data #####
